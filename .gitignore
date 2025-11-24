@@ -1,0 +1,7 @@
+cert/*
+common/
+database/
+redis/
+secret/
+job_logs/
+registry/
